@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+>I am `good` at coding talking to *people*
+My coding experience involves building and designing application from scratch using nodeJs
