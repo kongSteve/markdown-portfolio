@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Stephen Ng'etich
+## Full stack JS developer
+### nodejs
